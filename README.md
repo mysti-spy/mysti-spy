@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-[![Image](https://i.hizliresim.com/5f3ziai.gif)](https://hizliresim.com/5f3ziai)
-
 <br>Merhaba adım Onat, Erzincan Binali Yıldırım Üniversitesi / Kemah Meslek Yüksekokulu mezunuyum, Siber Güvenlik ile uğraşıyorum.<br>
+
+<img align="right" alt="mystispy" src="https://cdn.dribbble.com/userupload/22408110/file/original-dd8968e341f92b175cb61748f7ebd6c0.gif">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_onatd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/onatdibo) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/mystispy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mystispy) 

@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<a href="https://hizliresim.com/5f3ziai" align="right"><img src="https://i.hizliresim.com/5f3ziai.gif" alt="Resim Yükle"></a>
+[![Image](https://i.hizliresim.com/5f3ziai.gif)](https://hizliresim.com/5f3ziai)
 
 <br>Merhaba adım Onat, Erzincan Binali Yıldırım Üniversitesi / Kemah Meslek Yüksekokulu mezunuyum, Siber Güvenlik ile uğraşıyorum.<br>
 

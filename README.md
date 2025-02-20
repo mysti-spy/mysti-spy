@@ -2,7 +2,7 @@
 
 <br>Merhaba adım Onat, Erzincan Binali Yıldırım Üniversitesi / Kemah Meslek Yüksekokulu mezunuyum, Siber Güvenlik ile uğraşıyorum.<br>
 
-<img align="right" alt="mystispy" src="https://cdn.dribbble.com/userupload/22408110/file/original-dd8968e341f92b175cb61748f7ebd6c0.gif">
+<img align="right" alt="mystispy" src="https://github.com/mysti-spy/mystispy/blob/main/hackergif.gif?raw=true">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_onatd) 

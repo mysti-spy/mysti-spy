@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<br>Merhaba adım Onat, Erzincan Binali Yıldırım Üniversitesi / Kemah Meslek Yüksekokulu mezunuyum, Siber Güvenlik ile uğraşıyorum.<br>
+<br>Merhaba adım Onat, Erzincan Binali Yıldırım Üniversitesi / Kemah Meslek Yüksekokulu Bilgisayar Teknolojileri bölümü mezunuyum, Siber Güvenlik ile uğraşıyorum.<br>
 
 <img align=right src="/hackergif.gif" width=400>
 

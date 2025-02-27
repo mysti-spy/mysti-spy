@@ -2,8 +2,6 @@
 
 <br>Merhaba adım Onat, Erzincan Binali Yıldırım Üniversitesi / Kemah Meslek Yüksekokulu Bilgisayar Teknolojileri bölümü mezunuyum, Siber Güvenlik ile uğraşıyorum.<br>
 
-<img align=right src="/hackergif.gif" width=400>
-
 # 💻 Tech Stack:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)

@@ -1,6 +1,6 @@
 # 💫 Hakkımda:
 
-<br>Merhaba adım Onat, Erzincan Binali Yıldırım Üniversitesi / Kemah Meslek Yüksekokulu Bilgisayar Teknolojileri bölümü mezunuyum, Siber Güvenlik ile uğraşıyorum.<br>
+<br>Erzincan Üniversitesi'nde Bilgisayar Teknolojileri bölümünden mezunum. Cisco tarafından sunulan Siber Güvenlik sertifikasını almış bulunmaktayım. Mesleki yeterliliklerimi ve teknik becerilerimi sürekli geliştirmeye yönelik motivasyonumla, sektördeki gelişmeleri yakından takip ediyor ve yenilikçi çözümler üretmeyi ve Red Team yolunda ilerlemeyi hedefliyorum.<br>
 
 
 # 💻 Yeteneklerim:
